@@ -1,1 +1,3 @@
 # Big-Data
+
+This essay analyzes the benefits and drawbacks Big Data Technology presents to society as its potential grows. The essay highlights that Big Data benefits businesses through personalized marketing, smart recommendation engines, increased efficiency and minimized risk taking. At a national and global scale, Big Data Technology can conduct predictive policing, monitor financial crime, and ensure security and safety around the world. At the same time, the other side of the debate regarding personal privacy and security makes Big Data Technology unfavorable, however, used appropriately ultimately benefits the international community at a much larger scale. 
